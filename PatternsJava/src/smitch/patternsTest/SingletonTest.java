@@ -11,6 +11,12 @@ import static org.junit.Assert.*;
 
 //import smitch.patterns.*;
 
+/**
+ * Singleton Pattern Tests
+ * 
+ * @author Steven
+ *
+ */
 public class SingletonTest {
 	static boolean threadsTestRun = false;
 	

@@ -12,6 +12,8 @@ package smitch.patterns;
  * variables or in static methods.
  * From: Wikipedia Generics_in_java
  * 
+ * Making a change for gitHub
+ * 
  * @author Steven
  *
  */
